@@ -26,7 +26,7 @@ class dnn():
     inputs
     ======
     configs: object class
-        configurations for the cnn
+        configurations for the dnn
         configs.inputs: placeholder of the network's input,
                        whose shape is (None, rows, cols) or (rows*cols).
         configs.output: placeholder of the network's output
