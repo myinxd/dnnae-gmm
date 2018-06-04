@@ -36,7 +36,19 @@ Detailed usage of our dnnae-gmm package is demonstrated in [demo-mnist](https://
 - Zhixian MA <`zx at mazhixian.me`>
 
 ## Citation
-<TODO>
+You may want to cite this work by the following bibtex lines,
+```
+@ARTICLE{Ma2018DNNAE,
+   author = {Ma, Z. and Zhu, J. and Li W. and Xu, H.},
+    title = "{Radio Galaxy Morphology Generation Using DNN Autoencoder and Gaussian Mixture Models}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1806.00398},
+ primaryClass = "cs.CV",
+     year = 2018,
+    month = jun,
+}
+```
 
 ## License
 Unless otherwise declared:
